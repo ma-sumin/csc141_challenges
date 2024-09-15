@@ -1,5 +1,5 @@
 #Sumin Ma
-#13th Sep, 2024
+#13th Sep 2024
 #Lion Bars production report: calculating the total amount of weight in ounces and pounds
 
 #prompt the user to enter the weight of one Lion bar, in ounces.
